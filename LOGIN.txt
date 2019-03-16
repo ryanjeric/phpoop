@@ -1,0 +1,7 @@
+SUPERADMIN LOGIN
+	USERNAME -> superadmin
+	PASSWORD -> superadmin
+	
+ADMIN LOGIN
+	USERNAME -> ryanjeric
+	PASSWORD -> admin
